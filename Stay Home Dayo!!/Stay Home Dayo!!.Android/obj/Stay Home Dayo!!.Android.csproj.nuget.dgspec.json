@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GIT\\Projects\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\Stay Home Dayo!!.Android.csproj": {}
+    "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\Stay Home Dayo!!.Android.csproj": {}
   },
   "projects": {
-    "D:\\GIT\\Projects\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\Stay Home Dayo!!.Android.csproj": {
+    "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\Stay Home Dayo!!.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GIT\\Projects\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\Stay Home Dayo!!.Android.csproj",
+        "projectUniqueName": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\Stay Home Dayo!!.Android.csproj",
         "projectName": "Stay Home Dayo!!.Android",
-        "projectPath": "D:\\GIT\\Projects\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\Stay Home Dayo!!.Android.csproj",
+        "projectPath": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\Stay Home Dayo!!.Android.csproj",
         "packagesPath": "C:\\Users\\False Archer\\.nuget\\packages\\",
-        "outputPath": "D:\\GIT\\Projects\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\obj\\",
+        "outputPath": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "D:\\GIT\\Projects\\Stay Home Dayo!!\\Stay Home Dayo!!\\Stay Home Dayo!!.csproj": {
-                "projectPath": "D:\\GIT\\Projects\\Stay Home Dayo!!\\Stay Home Dayo!!\\Stay Home Dayo!!.csproj"
+              "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!\\Stay Home Dayo!!.csproj": {
+                "projectPath": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!\\Stay Home Dayo!!.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\GIT\\Projects\\Stay Home Dayo!!\\Stay Home Dayo!!\\Stay Home Dayo!!.csproj": {
+    "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!\\Stay Home Dayo!!.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GIT\\Projects\\Stay Home Dayo!!\\Stay Home Dayo!!\\Stay Home Dayo!!.csproj",
+        "projectUniqueName": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!\\Stay Home Dayo!!.csproj",
         "projectName": "Stay Home Dayo!!",
-        "projectPath": "D:\\GIT\\Projects\\Stay Home Dayo!!\\Stay Home Dayo!!\\Stay Home Dayo!!.csproj",
+        "projectPath": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!\\Stay Home Dayo!!.csproj",
         "packagesPath": "C:\\Users\\False Archer\\.nuget\\packages\\",
-        "outputPath": "D:\\GIT\\Projects\\Stay Home Dayo!!\\Stay Home Dayo!!\\obj\\",
+        "outputPath": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

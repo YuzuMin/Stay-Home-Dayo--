@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ISvf3vpYVQFfDtcLMxunsJax32NVwaO1+N9ftJrTF8eg9c0OgudIYyv9IzX9CWa3njJqIZaSysEpKt5SD/K3Tg==",
+  "dgSpecHash": "Z9yYhRrkS2AGIX+VTrEaZKd+q/4NVzk0GeG4cv/aqFBEpofclkUg+/FAeqxekcJWaS+aiTQq7agv7Ug6lTKuYA==",
   "success": true,
-  "projectFilePath": "D:\\GIT\\Projects\\Stay Home Dayo!!\\Stay Home Dayo!!\\Stay Home Dayo!!.csproj",
+  "projectFilePath": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!\\Stay Home Dayo!!.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\False Archer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\False Archer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -12,3 +12,17 @@ D:\GIT\Projects\Stay Home Dayo!!\Stay Home Dayo!!\obj\Release\netstandard2.0\Xam
 D:\GIT\Projects\Stay Home Dayo!!\Stay Home Dayo!!\obj\Release\netstandard2.0\Stay Home Dayo!!.dll
 D:\GIT\Projects\Stay Home Dayo!!\Stay Home Dayo!!\obj\Release\netstandard2.0\ref\Stay Home Dayo!!.dll
 D:\GIT\Projects\Stay Home Dayo!!\Stay Home Dayo!!\obj\Release\netstandard2.0\Stay Home Dayo!!.pdb
+D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!\bin\Release\netstandard2.0\Stay Home Dayo!!.deps.json
+D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!\bin\Release\netstandard2.0\Stay Home Dayo!!.dll
+D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!\bin\Release\netstandard2.0\ref\Stay Home Dayo!!.dll
+D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!\bin\Release\netstandard2.0\Stay Home Dayo!!.pdb
+D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!\obj\Release\netstandard2.0\Stay Home Dayo!!.csprojAssemblyReference.cache
+D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!\obj\Release\netstandard2.0\Stay Home Dayo!!.AssemblyInfoInputs.cache
+D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!\obj\Release\netstandard2.0\Stay Home Dayo!!.AssemblyInfo.cs
+D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!\obj\Release\netstandard2.0\Stay Home Dayo!!.csproj.CoreCompileInputs.cache
+D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!\obj\Release\netstandard2.0\XamlC.stamp
+D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!\obj\Release\netstandard2.0\Stay Home Dayo!!.dll
+D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!\obj\Release\netstandard2.0\ref\Stay Home Dayo!!.dll
+D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!\obj\Release\netstandard2.0\Stay Home Dayo!!.pdb

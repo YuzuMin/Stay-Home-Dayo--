@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yXB24tfV4oQ/8pWBcgbCf2+v2ofJy6TlptsBpeeyTsFWD6C2ExIU+wxEnmiMf+1s84To1YdjjLR9z2AhfmiVBA==",
+  "dgSpecHash": "aGjQlxVX6aWA2HqY/9ZZegHF0Y5az3kyXazHRhs47x1U1SbGXbOIybMElBj0RizI0+wscaN6s6IV9oITAl9xVA==",
   "success": true,
-  "projectFilePath": "D:\\GIT\\Projects\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\Stay Home Dayo!!.Android.csproj",
+  "projectFilePath": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\Stay Home Dayo!!.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\False Archer\\.nuget\\packages\\xam.plugin.simpleaudioplayer\\1.1.0\\xam.plugin.simpleaudioplayer.1.1.0.nupkg.sha512",
     "C:\\Users\\False Archer\\.nuget\\packages\\xam.plugins.settings\\3.1.1\\xam.plugins.settings.3.1.1.nupkg.sha512",

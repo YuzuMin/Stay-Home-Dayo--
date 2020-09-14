@@ -10,11 +10,13 @@
 
         <Label 
                Text="Press Sakura Miko"
+               TextColor="Black"
                FontSize="Large"
                VerticalOptions="CenterAndExpand"
                HorizontalOptions="Center" />
 
         <Label Text="0" 
+               TextColor="Black"
                x:Name="lblCount" 
                HorizontalOptions="Center"
                VerticalOptions="CenterAndExpand" />

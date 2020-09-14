@@ -23,8 +23,8 @@
 	.section	.rodata.env.str.1,"aMS",%progbits,1
 	.type	.L.env.str.1, %object
 .L.env.str.1:
-	.asciz	"com.companyname.stay_home_dayo__"
-	.size	.L.env.str.1, 33
+	.asciz	"com.yuzumin.stay_home_dayo"
+	.size	.L.env.str.1, 27
 	.section	.data.application_config,"aw",%progbits
 	.type	application_config, %object
 	.p2align	2
@@ -92,7 +92,7 @@ mono_aot_mode_name:
 	.section	.rodata.env.str.8,"aMS",%progbits,1
 	.type	.L.env.str.8, %object
 .L.env.str.8:
-	.asciz	"89f6524c-9e18-41dc-9f69-6b6ff90a59e2"
+	.asciz	"6c5f33e6-6ee1-4c5e-b48c-d99666c46742"
 	.size	.L.env.str.8, 37
 	.section	.rodata.env.str.9,"aMS",%progbits,1
 	.type	.L.env.str.9, %object

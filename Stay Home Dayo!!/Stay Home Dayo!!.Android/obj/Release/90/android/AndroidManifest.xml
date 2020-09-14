@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.stay_home_dayo__">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="Pre Alpha Release - 1.0" package="com.yuzumin.stay_home_dayo" android:installLocation="auto">
   <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="28" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-  <application android:label="Stay_Home_Dayo__.Android" android:theme="@style/MainTheme" android:name="android.app.Application" android:allowBackup="true" android:icon="@mipmap/icon">
+  <application android:label="Stay Home Dayo!!" android:theme="@style/MainTheme" android:icon="@drawable/sakuramiko" android:name="android.app.Application" android:allowBackup="true">
     <activity android:configChanges="orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:icon="@mipmap/icon" android:label="Stay_Home_Dayo__" android:theme="@style/MainTheme" android:name="crc6455938265863ca107.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -12,6 +11,6 @@
       </intent-filter>
     </activity>
     <receiver android:enabled="true" android:exported="false" android:name="crc643f46942d9dd1fff9.PowerSaveModeBroadcastReceiver" />
-    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="1999999999" android:authorities="com.companyname.stay_home_dayo__.mono.MonoRuntimeProvider.__mono_init__" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="1999999999" android:authorities="com.yuzumin.stay_home_dayo.mono.MonoRuntimeProvider.__mono_init__" />
   </application>
 </manifest>

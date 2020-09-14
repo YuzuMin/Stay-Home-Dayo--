@@ -91,7 +91,7 @@
 
 	/* 7: Plugin.SimpleAudioPlayer.dll */
 	/* uncompressed_file_size */
-	.long	10240
+	.long	9728
 	/* loaded */
 	.byte	0
 	/* data */
@@ -109,7 +109,7 @@
 
 	/* 9: Stay Home Dayo!!.dll */
 	/* uncompressed_file_size */
-	.long	10752
+	.long	9728
 	/* loaded */
 	.byte	0
 	/* data */
