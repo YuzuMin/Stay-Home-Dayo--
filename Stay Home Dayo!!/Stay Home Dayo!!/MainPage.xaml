@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Stay_Home_Dayo__.MainPage">
+
+    <StackLayout BackgroundColor="lightGray" Orientation="Vertical">
+        <Frame BackgroundColor="Black" Padding="15" CornerRadius="0">
+            <Label Text="Stay Home!!" HorizontalTextAlignment="Start" TextColor="White" FontSize="25"/>
+        </Frame>
+
+        <Label 
+               Text="Press Sakura Miko"
+               FontSize="Large"
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="Center" />
+
+        <Label Text="0" 
+               x:Name="lblCount" 
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+
+        <ImageButton
+                x:Name="sakuramiko"
+                BackgroundColor="Transparent"
+                Source="sakuramiko.png"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center"
+                Clicked="btn_clicked"
+        />
+        
+    </StackLayout>
+
+</ContentPage>

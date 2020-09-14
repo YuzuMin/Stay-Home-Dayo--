@@ -1,0 +1,3 @@
+D:\GIT\Projects\Stay Home Dayo!!\Stay Home Dayo!!.Android\obj\Release\44\MonoAndroid,Version=v4.4.AssemblyAttributes.cs
+D:\GIT\Projects\Stay Home Dayo!!\Stay Home Dayo!!.Android\obj\Release\44\build.props
+D:\GIT\Projects\Stay Home Dayo!!\Stay Home Dayo!!.Android\obj\Release\44\adb.props

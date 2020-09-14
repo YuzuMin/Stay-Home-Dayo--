@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ISvf3vpYVQFfDtcLMxunsJax32NVwaO1+N9ftJrTF8eg9c0OgudIYyv9IzX9CWa3njJqIZaSysEpKt5SD/K3Tg==",
+  "success": true,
+  "projectFilePath": "D:\\GIT\\Projects\\Stay Home Dayo!!\\Stay Home Dayo!!\\Stay Home Dayo!!.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\False Archer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\False Archer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\False Archer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\False Archer\\.nuget\\packages\\xam.plugin.simpleaudioplayer\\1.1.0\\xam.plugin.simpleaudioplayer.1.1.0.nupkg.sha512",
+    "C:\\Users\\False Archer\\.nuget\\packages\\xam.plugins.settings\\3.1.1\\xam.plugins.settings.3.1.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
