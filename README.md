@@ -2,8 +2,8 @@
 ## Application
 This is an implementation project to mimic the Tuturu app on the Google Play Store by coding it in Xamarin. It is built in Visual Studio 2019 Community with the Mobile App (Xamarin.Forms) Project. It is currently only built for Android devices. Its target version is Android 9.0, however devices Android 5.0 and above are supported aswell.
 ## How to Download?
-To download this application you can download it from here by downloading this repository and opening Stay Home Dayo!!.sln file which is in the Stay Home Dayo !! folder and running the code in your Android Emulator.
-**OR**
+To download this application you can download it from here by downloading this repository and opening Stay Home Dayo!!.sln file which is in the Stay Home Dayo !! folder and running the code in your Android Emulator.<br/>
+**OR**<br/>
 You could go https://github.com/YuzuMin/Stay-Home-Dayo--/releases and download the apk file by clicking on the com.yuzumin.stay_home_dayo.apk to install on your android device or emulator.
 ## Usage
 To use this application all you have to do is launch it by tapping on its icon. When the application is launched, tap on the Sakura Miko sprite. ( Note : Make sure volume is at maximum for best experience )  
