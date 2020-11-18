@@ -10,7 +10,7 @@
         "projectUniqueName": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\Stay Home Dayo!!.Android.csproj",
         "projectName": "Stay Home Dayo!!.Android",
         "projectPath": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\Stay Home Dayo!!.Android.csproj",
-        "packagesPath": "C:\\Users\\False Archer\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\exube\\.nuget\\packages\\",
         "outputPath": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
@@ -18,7 +18,7 @@
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\False Archer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\exube\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -68,14 +68,14 @@
         "projectUniqueName": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!\\Stay Home Dayo!!.csproj",
         "projectName": "Stay Home Dayo!!",
         "projectPath": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!\\Stay Home Dayo!!.csproj",
-        "packagesPath": "C:\\Users\\False Archer\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\exube\\.nuget\\packages\\",
         "outputPath": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\False Archer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\exube\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -133,7 +133,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

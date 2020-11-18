@@ -2063,7 +2063,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\False Archer\\.nuget\\packages\\": {},
+    "C:\\Users\\exube\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
@@ -2072,7 +2072,7 @@
       "projectUniqueName": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\Stay Home Dayo!!.Android.csproj",
       "projectName": "Stay Home Dayo!!.Android",
       "projectPath": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\Stay Home Dayo!!.Android.csproj",
-      "packagesPath": "C:\\Users\\False Archer\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\exube\\.nuget\\packages\\",
       "outputPath": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
@@ -2080,7 +2080,7 @@
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\False Archer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\exube\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

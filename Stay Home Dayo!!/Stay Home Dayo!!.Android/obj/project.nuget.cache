@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "aGjQlxVX6aWA2HqY/9ZZegHF0Y5az3kyXazHRhs47x1U1SbGXbOIybMElBj0RizI0+wscaN6s6IV9oITAl9xVA==",
+  "dgSpecHash": "3Rx4HbGR9ueNEFnSxWTk0Qp36hzKwozgnmN/c5bQWtLznPhGeOyftAa6dmYYk8yHtD6w5xKhkyLbx6ginn0chQ==",
   "success": true,
   "projectFilePath": "D:\\GIT\\Stay-Home-Dayo--\\Stay Home Dayo!!\\Stay Home Dayo!!.Android\\Stay Home Dayo!!.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\False Archer\\.nuget\\packages\\xam.plugin.simpleaudioplayer\\1.1.0\\xam.plugin.simpleaudioplayer.1.1.0.nupkg.sha512",
-    "C:\\Users\\False Archer\\.nuget\\packages\\xam.plugins.settings\\3.1.1\\xam.plugins.settings.3.1.1.nupkg.sha512",
+    "C:\\Users\\exube\\.nuget\\packages\\xam.plugin.simpleaudioplayer\\1.1.0\\xam.plugin.simpleaudioplayer.1.1.0.nupkg.sha512",
+    "C:\\Users\\exube\\.nuget\\packages\\xam.plugins.settings\\3.1.1\\xam.plugins.settings.3.1.1.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.lifecycle.common\\1.1.1.3\\xamarin.android.arch.lifecycle.common.1.1.1.3.nupkg.sha512",

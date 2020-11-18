@@ -753,7 +753,6 @@ D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!.Android\obj\Release\90
 D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!.Android\obj\Release\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
 D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!.Android\obj\Release\90\android\src\mono\MonoPackageManager_Resources.java
 D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!.Android\obj\Release\90\android\bin\packaged_resources
-D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!.Android\obj\Release\90\android\src\com\yuzumin\stay_home_dayo__\R.java
 D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!.Android\obj\Release\90\android\compressed_assemblies.armeabi-v7a.s
 D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!.Android\obj\Release\90\android\compressed_assemblies.arm64-v8a.s
 D:\GIT\Stay-Home-Dayo--\Stay Home Dayo!!\Stay Home Dayo!!.Android\obj\Release\90\android\typemaps.armeabi-v7a.o
