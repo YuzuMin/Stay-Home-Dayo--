@@ -1,6 +1,6 @@
 # Stay Home Dayo!! Xamarin Mobile App
 ## Application
-This is an implementation project to mimic the Tuturu app on the Google Play Store by coding it in Xamarin. It is built in Visual Studio 2019 Community with the Mobile App (Xamarin.Forms) Project. It is currently only built for Android devices. Its target version is Android 9.0, however devices Android 5.0 and above are supported aswell.
+This is an implementation project to mimic the Tuturu app on the Google Play Store by coding it in Xamarin. It is built in Visual Studio 2019 Community with the Xamarin framework. It is currently only built for Android devices. Its target version is Android 9.0, however devices Android 5.0 and above are supported aswell.
 ## How to Download?
 To download this application you can download it from here by downloading this repository and opening Stay Home Dayo!!.sln file which is in the Stay Home Dayo !! folder and running the code in your Android Emulator.<br/>
 **OR**<br/>
